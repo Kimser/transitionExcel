@@ -8,9 +8,9 @@ const len = data.length
 const outData_zh = {
 } // 中文
 const outData_en = {
-} // 印尼
-const outData_id = {
 } // 英文
+const outData_id = {
+} // 印尼文
 for (let i = 0; i < len; i++) {
   // 2.数据处理
   const item = data[i]
